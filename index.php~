@@ -1,0 +1,43 @@
+<?php include "includes/header.php" ?>
+<?php include "includes/nav.php" ?>
+<?php include "includes/acceuil.php" ?>
+<?php include "includes/event.php" ?>
+<?php include "includes/contact.php" ?>
+ 
+	
+
+	
+			<div class="row">
+				<div class="col-md-6">
+					<section id="event">
+						<h1>Événements</h1>
+						<p>
+
+						</p>
+						<h2>Lan</h2>
+						<p>Zombies reversus ab inferno, nam malum cerebro. De carne animata corpora quaeritis. Summus sit​​, morbo vel maleficia? De Apocalypsi undead dictum mauris. Hi mortuis soulless creaturas, imo monstra adventus vultus comedat cerebella viventium. Qui offenderit rapto, terribilem incessu. The voodoo sacerdos suscitat mortuos comedere carnem. Search for solum oculi eorum defunctis cerebro. Nescio an Undead zombies. Sicut malus movie horror.
+						</p>
+						<h2>Nuit de l'info</h2>
+
+					</section>
+				</div>
+				<div class="col-md-6">
+					<section id="contact">
+						<h1>Contact</h1>
+						<p>Shop filter doppio, extra saucer, organic, aftertaste iced white strong to go. Americano java steamed to go, variety mug steamed frappuccino single shot cappuccino. That, galão, and aromatic single shot irish plunger pot. Macchiato breve white skinny seasonal fair trade carajillo.</p>
+					</section>
+				</div>
+			</div><!-- /.row2 -->
+
+		</div><!-- /.starter-template -->
+
+
+		</div><!-- /.container -->
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="js/jquery.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+  </body>
+</html>
+
