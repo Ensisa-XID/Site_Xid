@@ -1,9 +1,15 @@
 <div class="row">
 	<section id="event">
-		<h1><i class="fa fa-calendar"></i> Événements</h1>
+
+		<div class="hero-unit">
+			<h1><i class="fa fa-calendar"></i> Événements</h1>
+			<p>Chaque année le Xid organise ou participe à l'organisation de grands évènements à l'échelle de l'école, mais parfois même à l'échelle du campus.</p>
+		</div>
+		
 		<div class="col-md-6">
 			<h2><i class="fa fa-gamepad"></i> Lan</h2>
-			<p>Zombies reversus ab inferno, nam malum cerebro. De carne animata corpora quaeritis. Summus sit​​, morbo vel maleficia? De Apocalypsi undead dictum mauris. Hi mortuis soulless creaturas, imo monstra adventus vultus comedat cerebella viventium. Qui offenderit rapto, terribilem incessu. The voodoo sacerdos suscitat mortuos comedere carnem. Search for solum oculi eorum defunctis cerebro. Nescio an Undead zombies. Sicut malus movie horror.</p>
+			<p>
+			Zombies reversus ab inferno, nam malum cerebro. De carne animata corpora quaeritis. Summus sit​​, morbo vel maleficia? De Apocalypsi undead dictum mauris. Hi mortuis soulless creaturas, imo monstra adventus vultus comedat cerebella viventium. Qui offenderit rapto, terribilem incessu. The voodoo sacerdos suscitat mortuos comedere carnem. Search for solum oculi eorum defunctis cerebro. Nescio an Undead zombies. Sicut malus movie horror.</p>
 		</div>
 		<div class="col-md-6">
 			<h2><i class="fa fa-moon-o"></i> Nuit de l'info</h2>
