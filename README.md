@@ -5,17 +5,12 @@ Site web du Xid, le club d'informatique de l' ENSISA
 
 A Faire
 -------
-  [x] Squelette
-
-  [ ] Favicon
-  
-  [ ] Partie contact
-  
-  [ ] Crédits
-  
-  [ ] Nettoyage des dépendances inutiles
-  
-  [ ] Ré identation du code
+- [x] Squelette
+- [ ] Favicon
+- [ ] Partie contact
+- [ ] Crédits
+- [ ] Nettoyage des dépendances inutiles
+- [ ] Ré identation du code
   
 
 
