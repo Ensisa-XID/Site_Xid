@@ -3,7 +3,7 @@
 
 		<div class="hero-unit">
 			<h1><i class="fa fa-calendar"></i> Événements</h1>
-			<p>Chaque année le Xid organise ou participe à l'organisation de grands évènements à l'échelle de l'école, mais parfois même à l'échelle du campus.</p>
+			<p>Chaque année le Xid organise ou participe à l'organisation de grands évènements à l'échelle de l'école, mais parfois même à l'échelle du campus.</p><!-- Il faudrait mettre Cathie sur le coup, elle gère bien le français ;-) -->
 		</div>
 		
 		<div class="col-md-6">

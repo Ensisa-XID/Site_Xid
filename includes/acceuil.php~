@@ -1,9 +1,9 @@
 <div class="container">
 	<div class="starter-template">
-		<h1><i class="fa fa-camera-retro"></i> Le club d'informatique de l'ENSISA</h1>
+		<h1>Le club d'informatique de l'ENSISA</h1>
 		<p class="lead">Destiné aux élèves qui souhaitent s'amèliorer dans tous les domaines de l'informatique... ou jouer ;-)</p>
 	</div>
-
+<section id="accueil"> 
 	<div class="row">
 		<div class="col-md-4"><!-- Panneau de gauche -->	
 			<div id="logo">
@@ -12,14 +12,24 @@
 		</div>
 				
 		<div class="col-md-8"><!-- Panneau de droite -->
-			<section id="accueil">
-				<p>My name is Merely Ducard but I speak for Ra's al Ghul... a man greatly feared by the criminal underworld. A mon who can offer you a path. Someone like you is only here by choice. You have been exploring the criminal fraternity but whatever your original intentions you have to become truly lost. The path of a man who shares his hatred of evil and wishes to serve true justice. The path of the League of Shadows.</p>
-				<p>Gotham's time has come.</p>
+			<p> Le Xid était un club totalement inactif il y a encore quelques années, ses locaux servaient surtout de débarats pour la matériel informatique. 
+				Depuis 2011, le club a repris du service et connait chaque année une évolution impressionnante.</p>
+			<p>Et pourquoi tant de personnes viennent ?!!! </p>
+			<ul>
+				<li>  Un point de rassemblement où toutes les promotions peuvent échanger, rigoler. Le Xid c'est notre CyberCafé à nous ;) </li>					
+				<li> Une source d'information inépuisable, les plus expérimentés aident les curieux. Pour apprendre, seule la motivation compte ! </li>
+				<li> Une dizaine de gamers qui viennent au quotidient, nous pouvons atteindre la trentaine lors des heures de pointe.</li>
+			</ul>
+				
+				<!-- MAIS A QUOI CE SERT ? xD -> ca sert à rien c'était juste pour m'entrainer à faire un bouton :D
 				<a href="http://batman-ipsum.com/">
 					<button class="btn btn-default btn-lg" href="http://batman-ipsum.com/">Batman Ipsum 
 					<span class="glyphicon glyphicon-link"></span>
 					</button>
 				</a>
-			</section><!-- /.section accueil -->
+				 -->
+				
+
 		</div> 
 	</div>
+</section><!-- /.section accueil -->

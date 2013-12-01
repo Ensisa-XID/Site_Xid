@@ -3,6 +3,7 @@
 						<section id="contact">
 							<h1><i class="fa fa-comment"></i></span> Contact</h1>
 							<p>Shop filter doppio, extra saucer, organic, aftertaste iced white strong to go. Americano java steamed to go, variety mug steamed frappuccino single shot cappuccino. That, galão, and aromatic single shot irish plunger pot. Macchiato breve white skinny seasonal fair trade carajillo.</p>
+					<!-- Il faudra trouver un endroit ou mettre le lien vers le wiki ;-) avec un beau bouton et soigner la page d'acceuil du wiki :D-->
 						</section>
 					</div>
 				</div><!-- /.row2 -->
