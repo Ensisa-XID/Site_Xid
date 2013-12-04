@@ -10,7 +10,7 @@ A Faire
 - [ ] Partie contact
 - [ ] Crédits
 - [ ] Nettoyage des dépendances inutiles
-- [ ] Ré identation du code
+- [x] Ré identation du code -> 4 espace par tabulation
   
 
 
