@@ -2,7 +2,7 @@
 				<div class="hero-unit">
 				
 					<div class="col-md-12">
-						<h1><i class="fa fa-calendar"></i> Nos partenaires</h1>
+						<h1><i class="fa fa-heart"></i> Nos partenaires</h1>
 						
 						<ul>
 							<li>
