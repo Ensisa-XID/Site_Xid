@@ -15,7 +15,7 @@
 						<ul>
 							<li>Voici le mail du président du Xid : duchet.l@hotmail.fr</li>
 							<li>Et celui du vice préseident : zoski ?</li>
-							<li> Lien vers le wiki ?<!-- Il faudra trouver un endroit ou mettre le lien vers le wiki ;-) avec un beau bouton et soigner la page d'acceuil du wiki :D--></li>
+							<li> Lien vers le wiki ?</li><!-- Il faudra trouver un endroit ou mettre le lien vers le wiki ;-) avec un beau bouton et soigner la page d'acceuil du wiki :D-->
 						</ul>
 						<!-- Il faudra trouver un endroit ou mettre le lien vers le wiki ;-) avec un beau bouton et soigner la page d'acceuil du wiki :D-->
 					</div>
