@@ -6,10 +6,10 @@
 						
 						<ul>
 							<li>
-								<a href="BDE.com">Le Bde</a> sans quoi nous ne serions pas ;)  
+								<a href="http://ensisa.info/">Le Bde</a> sans quoi nous ne serions pas ;)  
 							</li>					
 							<li>
-								<a href="Iariss.com">Iariss</a>, la junior entreprise de l'ENSISA. Le Xid et Iariss sont trés proches puisque la majorité des membres de Iariss sont des habitués du Xid, et vis-versa.
+								<a href="http://www.iariss.fr/">Iariss</a>, la junior entreprise de l'ENSISA. Le Xid et Iariss sont trés proches puisque la majorité des membres de Iariss sont des habitués du Xid, et vis-versa.
 							</li>
 						</ul>
 					</div>

@@ -13,7 +13,7 @@
 							Un amphi est également réservé à la projection de vidéos. Le club Zik, pompom, Ecarteam ou l'amicale sont également conviés.
 							</br>
 							</br>
-							Pour plus d'informations, voir même s'inscrire <a href="LAn.com">rendez vous ici.</a>
+							Pour plus d'informations, voir même s'inscrire <a href="LAn.fr">rendez vous ici.</a>
 						</p>
 					</div>
 					<div class="col-md-6">
@@ -23,7 +23,7 @@
 							Vous voulez passer une nuit entière à vous amuser, à programmer et à faire grandir un projet ? Alors rejoignez nous !
 							</br>
 							</br>
-							Pour plus d'informations, <a href="NuitDeLInfo.com">c'est par ici !</a>
+							Pour plus d'informations, <a href="http://www.nuitdelinfo.com/">c'est par ici !</a>
 						</p>
 					</div>
 				</section>
