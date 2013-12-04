@@ -1,4 +1,5 @@
-		</div><!-- /.starter-template  je vois pas le début ?-->
+		<!-- à quoi ça sert ? il a pas de début j'ai vérifié..--> </div><!-- /.starter-template -->
+		"pb ds footer juste au dessus de ce com' ;) "
 	</div><!-- /.container -->
     <!-- Bootstrap core JavaScript
     ================================================== -->

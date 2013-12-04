@@ -12,10 +12,13 @@
 					</div>
 					<div class="col-md-6">
 						<h2>Nous parler</h2>
-						<p>
-						Mail président + Mail vice-président (plus tard respo communication.
-						</p>
+						<ul>
+							<li>Voici le mail du président du Xid : duchet.l@hotmail.fr</li>
+							<li>Et celui du vice préseident : zoski ?</li>
+							<li> Lien vers le wiki ?<!-- Il faudra trouver un endroit ou mettre le lien vers le wiki ;-) avec un beau bouton et soigner la page d'acceuil du wiki :D--></li>
+						</ul>
 						<!-- Il faudra trouver un endroit ou mettre le lien vers le wiki ;-) avec un beau bouton et soigner la page d'acceuil du wiki :D-->
 					</div>
 				</section>
 			</div>
+
