@@ -15,7 +15,7 @@
 			  <ul class="nav navbar-nav"> <!-- Pb au niveau des ancres ! La raison c'est le navigateur qui prend la place du haut et qui cache le début du texte-->
 				<li><a href="index.php"><i class="fa fa-home fa-lg"></i> Accueil</a></li>
 				<li><a href="#event"><i class="fa fa-calendar fa-lg"></i> Événements</a></li>
-				<li><a href="#contact"><i class="fa fa-comment-o fa-lg"></i> Partenaires</a></li>
+				<li><a href="#contact"><i class="glyphicon glyphicon-globe"></i> Partenaires</a></li>
 				<li><a href="#contact"><i class="fa fa-comment-o fa-lg"></i> Nous contacter</a></li> 
 				
 			  </ul>
