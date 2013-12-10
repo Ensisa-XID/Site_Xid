@@ -4,7 +4,7 @@
 					<i class="fa fa-bullhorn fa-lg"></i>Le site du Xid démenagera prochainement à l'adresse : <a href="http://xid.ensisa.info">http://xid.ensisa.info</a>.
 				</div>
 
-				<h1>Le club d'informatique de l'ENSISA</h1>
+				<h1>Le Xid, club d'informatique de l'ENSISA</h1>
 				<p class="lead">Destiné aux élèves qui souhaitent s'amèliorer dans tous les domaines de l'informatique... ou jouer ;-)</p>
 			</div> <!-- Fin du smarter template -->
 

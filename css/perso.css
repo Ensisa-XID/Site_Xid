@@ -14,11 +14,13 @@ body {
 }
 
 h1 {
-	
-
+	padding-top:40px; /* Pour que les titres ne soient pas "mangés" lorsqu'on utilise les ancres */
 }
 
 h2 {
 	padding-left : 30px;
+}
 
+.section{
+	margin-top:20px;
 }
